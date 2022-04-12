@@ -7,5 +7,6 @@ public class ClassB {
 	@Test
 	public void pushBack() {
 		System.out.println("push back again");
+		System.out.println("pull  again");
 	}
 }
