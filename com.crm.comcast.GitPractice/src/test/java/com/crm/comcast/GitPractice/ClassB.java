@@ -6,6 +6,6 @@ public class ClassB {
 
 	@Test
 	public void pushBack() {
-		System.out.println("push back");
+		System.out.println("push back again");
 	}
 }
