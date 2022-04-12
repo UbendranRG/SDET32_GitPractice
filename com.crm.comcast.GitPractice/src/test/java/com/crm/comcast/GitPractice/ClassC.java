@@ -7,5 +7,6 @@ public class ClassC {
 	@Test
 	public void pushBackAgain() {
 		System.out.println("push 3rd time");
+		System.out.println("push 4th time");
 	}
 }
