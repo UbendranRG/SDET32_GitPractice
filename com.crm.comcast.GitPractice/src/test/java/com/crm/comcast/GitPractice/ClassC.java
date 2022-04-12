@@ -13,7 +13,7 @@ public class ClassC {
 		System.out.println("changing for pull");
 		System.out.println("push 4th time");
 		System.out.println("push 8th time");
-		System.out.println("hi");
+		System.out.println("pull checking");
 
 	}
 }
