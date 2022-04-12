@@ -8,6 +8,6 @@ public class ClassC {
 	public void pushBackAgain() {
 		System.out.println("push 3rd time");
 		System.out.println("push 5th time");
-		
+		System.out.println("push 6th time");
 	}
 }
