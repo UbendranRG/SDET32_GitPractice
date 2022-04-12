@@ -10,7 +10,9 @@ public class ClassC {
 		System.out.println("push 5th time");
 		System.out.println("push 6th time");
 		System.out.println("push 7th time");
+		System.out.println("changing for pull");
 		System.out.println("push 4th time");
 		System.out.println("push 8th time");
+
 	}
 }
